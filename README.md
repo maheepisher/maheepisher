@@ -8,39 +8,78 @@
 
 🎯 **About Me**
 
-- 💻 Full Stack Developer with 3+ years of experience, specializing in building scalable, secure, and cloud-native applications
-- ☁️ Skilled in Cloud Computing (AWS | Azure | GCP) and Infrastructure as Code (Terraform | CloudFormation)
-- 🔒 Advocate of DevSecOps practices, performance optimization, and secure SDLC
-- 🏦 Professional experience in the banking and financial sector delivering enterprise-grade solutions
-- 🚀 Passionate about designing resilient system architectures, automating workflows, and continuous learning
-- 🤝 Strong believer in collaboration, mentoring, and driving high-quality software delivery through Agile methodologies
+- 💻 Full Stack Developer with 3+ years of experience delivering scalable, secure, and cloud-native applications.
+- ☁️ Skilled in Cloud Computing (AWS | Azure | GCP) and Infrastructure as Code (Terraform | CloudFormation).
+- 🔒 Advocate for DevSecOps practices, secure SDLC, and performance optimization.
+- 🏦 Professional background in banking and financial industries building enterprise-grade solutions.
+- 🤝 Strong believer in collaboration, mentoring, and high-quality Agile software delivery.
 
 ---
 
-🛠️ **Tech Stack & Tools**
+🎯 **Goals**
+
+- 📚 Keep mastering AWS, Azure, and DevOps automation tools.
+- 🏗️ Design highly resilient and scalable cloud architectures.
+- 🎯 Achieve AWS Solutions Architect and Azure Administrator certifications.
+
+---
+
+⚡ **Tech Stack & Tools**
 
 - **Languages**: C#, .NET 6+, Python (Flask), SQL, JavaScript
-- **Cloud Platforms**: AWS, GCP, Azure
-- **DevOps & CI/CD**: GitHub Actions, CodePipeline, Cloud Build
-- **Infrastructure**: Terraform, CloudFormation
+- **Cloud Platforms**: AWS, Azure, GCP
+- **DevOps/CI-CD**: GitHub Actions, AWS CodePipeline, GCP Cloud Build
+- **Infrastructure as Code**: Terraform, AWS CloudFormation
 - **Databases**: SQL Server, MySQL (RDS), PostgreSQL
 - **Containerization**: Docker, Amazon ECS (Fargate), EKS
-- **Monitoring & Security**: CloudWatch, IAM, WAF, KMS
+- **Monitoring/Security**: CloudWatch, IAM, WAF, KMS
 - **Version Control**: Git, GitHub
 
 ---
 
-📈 **Stats**
+🧠 **Hobbies**
+
+- 🏏 Playing Cricket
+- 🧩 Problem Solving and Logical Challenges
+- 🎵 Listening to Music
+
+---
+
+🗣️ **Languages**
+
+- English
+- Hindi
+- Punjabi
+
+---
+
+🚀 **Projects**
+
+- **Library Management System (AWS Cloud Deployment)**  
+  Microservices-based application hosted on AWS using S3, ECS Fargate, RDS, CloudFront, with Terraform and CloudFormation automation.  
+  - 🔗 [Frontend Source Code](https://lnkd.in/gRXd4MFa)  
+  - 🔗 [Backend Source Code](https://lnkd.in/gD72kxpV)
+
+---
+
+📫 **Connect with me**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheepisher&show_icons=true&theme=radical" alt="Maheep's GitHub Stats" />
+  <a href="https://www.linkedin.com/in/maheep-isher/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maheepisher@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/maheepisher/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-📫 **Let's Connect**
+📈 **GitHub Stats**
 
-- [LinkedIn](https://www.linkedin.com/in/maheep-isher-singh-chawla/)
-- [Email](mailto:maheepisher@gmail.com)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheepisher&show_icons=true&theme=radical" alt="Maheep's GitHub Stats" />
+</p>
