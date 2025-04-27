@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Maheep Isher Singh Chawla</h1>
+<h1 align="center">Hey Folks👋, I'm Maheep Isher Singh Chawla</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
 </p>
 
 ---
@@ -11,8 +11,8 @@
 - 💻 Full Stack Developer with 3+ years of experience delivering scalable, secure, and cloud-native applications.
 - ☁️ Skilled in Cloud Computing (AWS | Azure | GCP) and Infrastructure as Code (Terraform | CloudFormation).
 - 🔒 Advocate for DevSecOps practices, secure SDLC, and performance optimization.
-- 🏦 Professional background in banking and financial industries building enterprise-grade solutions.
-- 🤝 Strong believer in collaboration, mentoring, and high-quality Agile software delivery.
+- 🏦 Professional background in banking industry building enterprise-grade solutions.
+- 🤝 Strong believer of collaboration, mentoring, and high-quality Agile software delivery.
 
 ---
 
@@ -30,10 +30,10 @@
 - **Cloud Platforms**: AWS, Azure, GCP
 - **DevOps/CI-CD**: GitHub Actions, AWS CodePipeline, GCP Cloud Build
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
-- **Databases**: SQL Server, MySQL (RDS), PostgreSQL
-- **Containerization**: Docker, Amazon ECS (Fargate), EKS
+- **Databases**: SQL Server, MySQL (RDS), PostgreSQL, Oracle
+- **Containerization**: Docker, Amazon ECS (Fargate), Amazon ECR, Cloud Run, Azure App Service
 - **Monitoring/Security**: CloudWatch, IAM, WAF, KMS
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, SVN
 
 ---
 
