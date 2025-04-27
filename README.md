@@ -62,22 +62,6 @@
 
 ---
 
-📫 **Connect with me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maheep-isher-singh-chawla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:maheepisher@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/maheep_isher/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-</p>
-
----
-
 📈 **GitHub Stats**
 
 <p align="center">
@@ -94,4 +78,21 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maheepisher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+---
+
+📫 **Connect with me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maheep-isher-singh-chawla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maheepisher@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/maheep_isher/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
 </p>
