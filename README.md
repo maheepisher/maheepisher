@@ -57,8 +57,8 @@
 
 - **Library Management System (AWS Cloud Deployment)**  
   Microservices-based application hosted on AWS using S3, ECS Fargate, RDS, CloudFront, with Terraform and CloudFormation automation.  
-  - 🔗 [Frontend Source Code](https://lnkd.in/gRXd4MFa)  
-  - 🔗 [Backend Source Code](https://lnkd.in/gD72kxpV)
+  - 🔗 [Frontend Source Code](https://github.com/maheepisher/LibraryManagementSystem-Frontend.git)  
+  - 🔗 [Backend Source Code](https://github.com/maheepisher/LibraryManagementSystem-Backend-APIs.git)
 
 ---
 
