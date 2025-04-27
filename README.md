@@ -40,7 +40,7 @@
 
 📫 **Let's Connect**
 
-- [LinkedIn](https://www.linkedin.com/in/maheep-isher/)
+- [LinkedIn](https://www.linkedin.com/in/maheep-isher-singh-chawla/)
 - [Email](mailto:maheepisher@gmail.com)
 
 ---
