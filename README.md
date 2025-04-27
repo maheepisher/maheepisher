@@ -47,9 +47,9 @@
 
 🗣️ **Languages**
 
-- English 🇬🇧
-- Hindi 🇮🇳
-- Punjabi 🇵🇰
+- English
+- Hindi
+- Punjabi
 
 ---
 
